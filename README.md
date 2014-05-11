@@ -1,7 +1,8 @@
 # phpinfo(); on Heroku
 
 Heroku has started official support for PHP on April 29, 2014.<br>
-This is a test program of a minimum for that.<br>
+This is a test program of a minimum for that.
+
 Pleade do this.
 
 ```shell
